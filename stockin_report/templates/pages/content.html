@@ -1,0 +1,47 @@
+{% extends 'pages/header.html' %}
+
+{% block content %}
+<!-- Main content-->
+<section class="content">
+
+	<div class="container-fluid container3">
+		<h4>Stock-in Report</h4>
+		<div class="row">
+			<div class="col-sm-1">
+				<input type="radio" name="filter" value="none" class="form-control radio1" checked = "checked">
+			</div>
+			<div class="col-sm-1 left_more2 addtop5">
+				All Reports
+			</div>
+			<div class="col-sm-1">
+				<input type="radio" name="filter" value="program" class="form-control radio1">
+			</div>
+			<div class="col-sm-2 left_more2 addtop5">
+				Starting From
+			</div>
+			<div class="col-sm-2 select_left addtop6">
+				<input type="date" name="start" class="form-control bgunique" disabled="">
+			</div>
+			<div class="col-sm-1 addtop5">
+				Until
+			</div>
+			<div class="col-sm-2 select_left2 addtop6">
+				<input type="date" name="end" class="form-control bgunique" disabled>
+			</div>
+			<div class="col-sm-1 submit_button addtop6">
+				<button name="submit_button	" id="submit_button2" class="form-control btn btn-primary" onclick="setCookie5()" disabled>GO</button>
+			</div>
+		</div>
+	</div>
+
+	{% for c in content %}
+		<p>{{c}}</p>
+	{% endfor %}
+
+</section>
+
+	
+
+
+<!-- End main content-->
+{% endblock %}

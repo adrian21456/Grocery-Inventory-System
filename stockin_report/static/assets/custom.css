@@ -1,0 +1,171 @@
+.button_down{
+	margin-top: 32px;
+	margin-left: -26px !important;
+}
+.left_more{
+	margin-left: -26px !important;
+}
+.left_more2{
+	margin-left: -59px !important;
+}
+.view_color{
+	color: #61abd8;
+	font-size: 25px;
+}
+.edit_color{
+	color: rgb(84, 138, 101);
+	font-size: 25px;
+}
+.del_color{
+	color: #E02133;
+	font-size: 25px;
+}
+.option_header{
+	text-align: center !important;
+}	
+.divider1{
+	margin-top: 40px;
+}
+.divider2{
+	margin-top: 20px;
+}
+.divider3{
+	margin-top: 63px;
+}
+.row1{
+
+}
+.nav2{
+	background-color: #DEE8EA;
+}
+.space_top{
+	margin-top: 10px;
+}
+.space_top2{
+	margin-top: 0px;
+}
+.student_button{
+	margin-top: 32px;
+}
+.padding_extended{
+	margin-left: 10px !important;
+}
+.top_label{
+	margin-top: 10px;
+}
+.push_left{
+	margin-left: -40px !important;
+}
+.push_left2{
+	margin-left: -20px !important;
+}
+.push_left3{
+	margin-left: -80px !important;
+}
+.push_left4{
+	margin-left: -70px !important;
+}
+.result_container{
+	height: 200px;
+}
+.left_push{
+	margin-left: 20px;
+}
+.radio1{
+	height: 20px;
+	width: 20px;
+}
+.select_left{
+	margin-left: -85px;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+.select_left4{
+	margin-left: -53px;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+.select_left2{
+	margin-left: -51px;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+.select_left3{
+	margin-left: 12px;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+.label_left{
+    margin-right: 15px;
+}
+.submit_button{
+    margin-top: -8px;
+}
+.sidebar-2{
+	
+}
+.container1{
+	margin-top: 10px;
+}
+
+.td1{
+	border-color: black !important;
+	padding: 3px;
+	font-size: 14px;
+}
+.td2{
+	border-color: black !important;
+	padding: 3px;
+	font-size: 16px;
+	background-color: #5959ff;
+}
+.td3{
+	border-color: black !important;
+	padding: 3px;
+	font-size: 14px;
+	background-color: #8c8cff;
+}
+.top_field{
+	font-size: 	14px;
+	font-weight: bold;
+	text-decoration: underline;
+	border: 0px;
+}
+.top_field2{
+	font-size: 	12px;
+	margin-top: -18px;
+	border: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	
+}
+.top_field3{
+	font-size: 	14px;
+	font-weight: bold;
+	text-decoration: underline;
+	border: 0px;
+	margin-top: 30px;
+}
+.p1{
+	font-size: 	14px;
+}
+.push_left3{
+	margin-left: 10px !important;
+}
+.push_left4{
+	margin-left: 334px !important;
+}
+.addtop5{
+	margin-top: 3px;
+}
+.addtop6{
+	margin-top: -5px;
+}
+.container3{
+	background-color: #353D46;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+.bgunique{
+	background-color: #2c2e34 !important;
+}
